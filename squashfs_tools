@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./dockertools/bin/run squashfs.docker squashfs_tools
